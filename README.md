@@ -1,8 +1,8 @@
-# 📚 Laravel E-Learning Platform
+#  Laravel E-Learning Platform
 
 A simplified backend API for an e-learning platform built with Laravel.
 
-## 🚀 Features
+##  Features
 
 - User registration/login (with roles: `student`, `admin`)
 - Course management (CRUD for admin)
@@ -13,7 +13,7 @@ A simplified backend API for an e-learning platform built with Laravel.
 
 ---
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repo**
 ```bash
